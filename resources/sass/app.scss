@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+$fa-font-path:        "../webfonts";
+
+// Bootstrap
+@import '~admin-lte/dist/css/adminlte.min.css';
+//@import '~bootstrap/scss/bootstrap';
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+@import "~emoji-toolkit/extras/css/joypixels.min.css";
+@import "~emojionearea/dist/emojionearea.min.css";
