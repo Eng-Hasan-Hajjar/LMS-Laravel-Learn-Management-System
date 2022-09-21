@@ -50,7 +50,10 @@ Email settings (using a provider like Mailgun, Amazon SES, etc)
 ### License
 LMS-Laravel is licensed under the MIT license. Enjoy!
 
+## Seeded Credentials
 
+User: admin
+Pass: admin123
 
 <div>
         <img src="حسن حجار.png">
