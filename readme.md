@@ -32,12 +32,7 @@ DB_DATABASE=lms_laravel
 DB_USERNAME=root
 DB_PASSWORD=root
 ```
-Google recaptcha settings (which you can configure from https://www.google.com/recaptcha/admin/site)
-```
-ENABLE_CAPTCHA=true
-NOCAPTCHA_SITEKEY=xxxxxxxxxx
-NOCAPTCHA_SECRET=xxxxxxxxxxx
-```
+
 
 Email settings (using a provider like Mailgun, Amazon SES, etc)
 
