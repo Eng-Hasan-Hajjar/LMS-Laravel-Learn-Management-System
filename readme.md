@@ -54,3 +54,9 @@ Email settings (using a provider like Mailgun, Amazon SES, etc)
 
 ### License
 LMS-Laravel is licensed under the MIT license. Enjoy!
+
+
+
+<div>
+        <img src="حسن حجار.png">
+</div>
