@@ -20,8 +20,8 @@ Eng Hasan Hajjar: eng.hasan.hajjar@gmail.com
 ```
 
 ### Installation
-* Run `git clone https://github.com/LMS-Laravel/LMS-Laravel.git LMS-Laravel`
-* `cd LMS-Laravel` 
+* Run `git clone https://github.com/Eng-Hasan-Hajjar/LMS-Laravel-Learn-Management-System.git`
+* `cd LMS-Laravel-Learn-Management-System` 
 * Run `composer install` (install composer beforehand)
 * From the projects root run `cp .env.example .env`
 * Configure your `.env` file, with:
